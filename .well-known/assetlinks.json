@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.extreme.app.ab5.w",
+      "sha256_cert_fingerprints":
+      ["F7:82:ED:A8:42:18:18:40:95:5F:18:08:A5:3F:60:0A:25:BF:D4:20:70:EA:3E:CF:F7:74:58:F4:51:2E:0A:D8"]
+    }
+  }]
